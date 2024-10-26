@@ -1,0 +1,38 @@
+Sunday 04/14/24 17:50:03 2024:Puzzle family.puz not found. Location:load_another_game
+Sunday 04/14/24 17:51:19 2024:The system cannot find the specified file. Location:change_directory
+Sunday 04/14/24 17:51:19 2024:Error in changing directory. Location:add_image
+Sunday 04/14/24 20:27:50 2024:Error: 'str' object has no attribute 'is_file' Location:renew_leaderboard
+Sunday 04/14/24 23:39:10 2024:The system cannot find the specified file. Location:change_directory
+Sunday 04/14/24 23:39:10 2024:Error in changing directory. Location:add_image
+Sunday 04/14/24 23:40:15 2024:The system cannot find the specified file. Location:change_directory
+Sunday 04/14/24 23:40:15 2024:Error in changing directory. Location:add_image
+Monday 04/15/24 00:33:26 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 00:33:26 2024:Error in changing directory. Location:add_image
+Monday 04/15/24 00:36:12 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 00:36:12 2024:Error in changing directory. Location:add_image
+Monday 04/15/24 11:34:58 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 11:34:58 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 11:47:02 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 11:47:02 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 11:55:35 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 11:55:35 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 11:58:03 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 11:58:03 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 12:00:36 2024:Not corrected puzzle file. Location:load
+Monday 04/15/24 12:00:36 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 12:00:36 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 12:03:07 2024:Not corrected puzzle file. Location:load
+Monday 04/15/24 12:03:07 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 12:03:07 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 12:04:23 2024:Not corrected puzzle file. Location:read_puz
+Monday 04/15/24 12:04:23 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 12:04:23 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 14:14:26 2024:Puzzle yoshi not found. Location:load_another_game
+Monday 04/15/24 14:14:36 2024:Not corrected puzzle file. Location:read_puz
+Monday 04/15/24 14:14:36 2024:The system cannot find the specified file. Location:change_directory
+Monday 04/15/24 14:14:36 2024:Error in adding images: couldn't open "mario_thumbnail.gif": no such file or directory. Location:add_image
+Monday 04/15/24 20:55:18 2024:Puzzle sa not found. Location:load_another_game
+Monday 04/15/24 22:16:11 2024:Puzzle fifteen not found. Location:load_another_game
+Monday 04/15/24 22:16:24 2024:Malformed puzzle file. Location:check_puz_file_validity
+Monday 04/15/24 22:16:24 2024:Puzzle malformed_mario.puz not found. Location:load_another_game
+Monday 04/15/24 22:16:30 2024:Malformed puzzle file. Location:check_puz_file_validity
